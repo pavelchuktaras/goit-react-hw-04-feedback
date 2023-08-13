@@ -1,0 +1,14 @@
+.info {
+    font-size: 20px;
+    font-weight: 500;
+  }
+  
+  .info p {
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+  
+  .message {
+    font-size: 20px;
+    font-weight: 500;
+  }
